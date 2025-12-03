@@ -1,0 +1,34 @@
+PriorityQueue Class Documentation:
+
+Constructor
+PriorityQueue()
+
+Accessors:
+// returns each of the objects current fields
+public Node getHead();
+public PriorityQueue getRest();
+
+// printPQ
+// prints the contents of the PQ for DEBUG purposes
+public void printPQ();
+
+Mutators:
+// Can set the Objects fields to what is passed in
+public void setHead(Node head);
+public void setRest(PriorityQueue rest);
+
+// push
+// pushs a new node onto the PriorityQueue
+public void push(Node node);
+
+// EXTRACT_MIN
+// returns the smallest node of the PriorityQueue
+public Node EXTRACT_MIN();
+
+// makePQFromFile
+// creates a PriorityQueue given a file, if that file contains "codes"
+// then a String array codes is filled in with the symbols of the codes that are wanted
+// true is returned if codes are wanted, false if not
+public Boolean makePQFromFile(String fileString, String[] codes);
+
+

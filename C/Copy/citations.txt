@@ -1,0 +1,2 @@
+Here are all of my citaitions:
+1-Mallocs & Freeing Memory: https://www.geeksforgeeks.org/c/c-pointers/

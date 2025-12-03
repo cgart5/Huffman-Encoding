@@ -1,0 +1,24 @@
+Will : 3
+Levan : 1
+BlondeJackson : 3
+Chase	:	40
+Moorman :    40
+Caroline : 11
+BrunetteJackson : 7
+Alex : 10
+England : 10397
+Ryan : 2
+Alayna : 2
+Riley : 100
+Nic : 100
+Jeffry   : 999999
+Azalea :  250000
+
+codes
+Caroline
+Nic
+Levan
+England
+Alex
+Bailey
+Chase

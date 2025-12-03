@@ -1,0 +1,25 @@
+Btree Documentation
+
+// Constructor
+Btre();
+
+// Accessors:
+// returns the desired fields of the object
+public Node getRoot();
+
+// Print Methods:
+// printPrettyTree
+// prints the contents of the tree in a structured way
+public void printPrettyTree();
+
+// printCodes
+// prints the binary codes of the desired symbols
+public void printCodes(String[] symbols);
+
+// Mutators:
+// changes the fields of the object by whats given
+public void setRoot(Node root);
+
+// makeTree
+// takes in two nodes and combines them into one node as the root
+public void makeTree(Node left, Node right);

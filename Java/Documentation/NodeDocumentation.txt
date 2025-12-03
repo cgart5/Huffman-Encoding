@@ -1,0 +1,26 @@
+Node Documentation
+
+// Constructor:
+Node(String symbols, int freq, Node left, Node right);
+
+// Accessors:
+// returns the field of the object
+public String getSymbols();
+public int getFreq();
+public Node getLeft();
+public Node getRight();
+
+Mutators:
+// changes the fields of the object
+public void setSymbols(String symbols);
+public void setFreq(int freq);
+public void setLeft(Node left);
+public void setRight(Node right);
+
+// toString
+// returns a string represenation of the Node
+public String toString();
+
+//lessThan
+// checks if the node that is passed in is less than the object itself
+public Boolean lessThan(Node comp);
